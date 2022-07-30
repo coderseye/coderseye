@@ -13,3 +13,5 @@
 6. https://coderseye.github.io/Photography_Page/
 
 7. https://coderseye.github.io/template_slide/
+
+8. https://coderseye.github.io/Dev_Profile/

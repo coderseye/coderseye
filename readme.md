@@ -21,3 +21,7 @@
 10. https://coderseye.github.io/template_web/
 
 11. https://coderseye.github.io/search_menu/
+
+12. https://open.spotify.com/playlist/4Aex60ZUK2nNkVu1GwrHXq?si=2244e0673a7c47fa
+
+13. https://open.spotify.com/playlist/4tPApoEQYZSJAyLG0BzNKo?si=5ac3e1dfd07948a7

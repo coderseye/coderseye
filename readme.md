@@ -1,5 +1,5 @@
 
->## *Basic GIT Commands*
+>## ***Basic GIT Commands***
 <hr>
 
 - `git init`: Initializes a new Git repository.
@@ -28,7 +28,7 @@
 
 <hr>
 
->### *Steps for upload a git repository on github* 
+>### ***Steps for upload a git repository on github*** 
 
 - Create a new repository on GitHub by clicking the "+" icon in the top right corner of the page and selecting "New repository".
 
